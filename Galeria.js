@@ -2,7 +2,7 @@
   'use strict';
 
   /* ── Config ──────────────────────────────────────────────────── */
-  const DATA_URL    = 'data/gallery_images.json';
+  const DATA_URL    = 'Data/gallery_images.json';
 
   const CATEGORIES = [
     'Rooms',
