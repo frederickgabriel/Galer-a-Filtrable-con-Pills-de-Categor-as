@@ -32,7 +32,7 @@ que hay muchas maneras de hacerlo pero yo opte por esta opcion.
 | Fuentes | **Agenda** (Adobe Typekit `jky6aby`) → fallback **Poppins** (Google Fonts) |
 | Datos | JSON estático (`Data/gallery_images.json`) — reemplazable por cualquier API REST |
 
-## 📦 Datos (`gallery_images.json`)
+## Datos (`gallery_images.json`)
  
 Cada imagen sigue este esquema:
  
