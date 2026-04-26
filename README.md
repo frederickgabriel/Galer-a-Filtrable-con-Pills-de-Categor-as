@@ -57,3 +57,6 @@ Cada imagen sigue este esquema:
 - **Grid**: `columns` CSS (masonry nativo) para variedad visual sin JavaScript extra.
 - **AJAX**: `fetch()` nativo — sin jQuery ni librerías externas. El filtrado ocurre en memoria tras la carga inicial.
 - **Lightbox**: Implementación propia sin dependencias, con transición de opacidad y escala en cambio de imagen.
+
+** Enlace del proyecto corriendo en Github page
+https://frederickgabriel.github.io/Galer-a-Filtrable-con-Pills-de-Categor-as/
