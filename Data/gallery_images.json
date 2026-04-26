@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Excellence Playa Mujeres - Beach View",
+    "category": "Beaches",
+    "hotel": "Excellence Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/XPM_EC_Beach_04_LR.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/XPM_EC_Beach_04_LR-500x333.webp",
+    "description": "Stunning beachfront views at Excellence Playa Mujeres"
+  },
+  {
+    "id": 2,
+    "title": "Dreams Playa Mujeres - Pool Area",
+    "category": "Swimming Pools",
+    "hotel": "Dreams Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-PC-POOL-1A-CB.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-PC-POOL-1A-CB-500x333.webp",
+    "description": "Luxurious pool area at Dreams Playa Mujeres"
+  },
+  {
+    "id": 3,
+    "title": "Secrets Playa Mujeres - Spa",
+    "category": "Spas",
+    "hotel": "Secrets Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/SECPM-SPA-1A-CB.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/SECPM-SPA-1A-CB-500x333.webp",
+    "description": "Relaxing spa experience at Secrets Playa Mujeres"
+  },
+  {
+    "id": 4,
+    "title": "Atelier Playa Mujeres - Restaurant",
+    "category": "Restaurants",
+    "hotel": "Atelier Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/ATLPM-RES-1A-CB.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/ATLPM-RES-1A-CB-500x333.webp",
+    "description": "Fine dining experience at Atelier Playa Mujeres"
+  },
+  {
+    "id": 5,
+    "title": "Excellence Playa Mujeres - Suite Room",
+    "category": "Rooms",
+    "hotel": "Excellence Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/XPM_EC_Beach_04_LR.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/XPM_EC_Beach_04_LR-500x333.webp",
+    "description": "Elegant suite with ocean views at Excellence Playa Mujeres"
+  },
+  {
+    "id": 6,
+    "title": "Dreams Playa Mujeres - Junior Suite Bathroom",
+    "category": "Rooms",
+    "hotel": "Dreams Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-JR-Bathroom-1A-CB-1024x683.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-JR-Bathroom-1A-CB-1024x683.webp",
+    "description": "Luxurious bathroom in Junior Suite at Dreams Playa Mujeres"
+  },
+  {
+    "id": 7,
+    "title": "Dreams Playa Mujeres - Explorers Club Outdoor",
+    "category": "Experiences",
+    "hotel": "Dreams Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-EC-ExplorersClub-Outdoor-1A-CB-1024x683.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-EC-ExplorersClub-Outdoor-1A-CB-1024x683.webp",
+    "description": "Kids and family outdoor activities at Dreams Explorers Club"
+  },
+  {
+    "id": 8,
+    "title": "Dreams Playa Mujeres - Preferred Club Master Suite Living",
+    "category": "Rooms",
+    "hotel": "Dreams Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-PC-MSTR-OF-PP-LIVING-2A-CB-1024x683.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-PC-MSTR-OF-PP-LIVING-2A-CB-1024x683.webp",
+    "description": "Spacious living area of the Preferred Club Master Suite at Dreams"
+  },
+  {
+    "id": 9,
+    "title": "Atelier Playa Mujeres - Room Dining Area",
+    "category": "Rooms",
+    "hotel": "Atelier Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/ATELIER-Playa-Mujeres-Room-Dining-Lft-LSRD-AM03-1024x576.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/ATELIER-Playa-Mujeres-Room-Dining-Lft-LSRD-AM03-1024x576.webp",
+    "description": "In-room dining area with elegant décor at Atelier Playa Mujeres"
+  },
+  {
+    "id": 10,
+    "title": "Secrets Playa Mujeres - Barefoot Grill",
+    "category": "Restaurants",
+    "hotel": "Secrets Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/SECPM-RES-Barefoot-Grill-AP-1024x731.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/SECPM-RES-Barefoot-Grill-AP-1024x731.webp",
+    "description": "Casual beachside dining at Barefoot Grill, Secrets Playa Mujeres"
+  },
+  {
+    "id": 11,
+    "title": "Dreams Playa Mujeres - Paramount Suite Terrace Gala Dinner",
+    "category": "Meeting And Event Rooms",
+    "hotel": "Dreams Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-WED-PC-Paramount-St-TER-Gala-Dinner-1A-CB-1024x683.jpg",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/DREPM-WED-PC-Paramount-St-TER-Gala-Dinner-1A-CB-1024x683.jpg",
+    "description": "Elegant terrace setup for gala dinner events at Dreams Playa Mujeres"
+  },
+  {
+    "id": 12,
+    "title": "Finest Playa Mujeres - Le Petit Plaisir Restaurant",
+    "category": "Restaurants",
+    "hotel": "Finest Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/le-petit-plaisir-finest-1024x684-1.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/le-petit-plaisir-finest-1024x684-1.webp",
+    "description": "Sophisticated French-inspired dining at Le Petit Plaisir, Finest Playa Mujeres"
+  },
+  {
+    "id": 13,
+    "title": "Secrets Playa Mujeres - Preferred Club Junior Suite Sitting Area",
+    "category": "Rooms",
+    "hotel": "Secrets Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/SECPM-PCJR-SittingArea-1A-CB-1024x683.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/SECPM-PCJR-SittingArea-1A-CB-1024x683.webp",
+    "description": "Comfortable sitting area in Preferred Club Junior Suite at Secrets"
+  },
+  {
+    "id": 14,
+    "title": "Secrets Playa Mujeres - Junior Suite Ocean View",
+    "category": "Rooms",
+    "hotel": "Secrets Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/SECPM-JR-OV-DOUBLE-1A-CB-1024x683.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/SECPM-JR-OV-DOUBLE-1A-CB-1024x683.webp",
+    "description": "Double bed Junior Suite with stunning ocean views at Secrets Playa Mujeres"
+  },
+  {
+    "id": 15,
+    "title": "Finest Playa Mujeres - Main Pool & Overview",
+    "category": "Swimming Pools",
+    "hotel": "Finest Playa Mujeres",
+    "image": "https://playamujeres.com.mx/wp-content/uploads/2021/12/FPM_Overview_Main_Area_1v_LR-682x1024.webp",
+    "thumbnail": "https://playamujeres.com.mx/wp-content/uploads/2021/12/FPM_Overview_Main_Area_1v_LR-682x1024.webp",
+    "description": "Aerial overview of the main pool area at Finest Playa Mujeres"
+  }
+]

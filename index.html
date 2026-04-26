@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gallery – Pictures of Playa Mujeres</title>
+
+  <!-- Fonts: Agenda (Typekit) with Poppins fallback -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://use.typekit.net/jky6aby.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ══════════════════════════════ NAVBAR ══════════════════════════════ -->
+  <header class="navbar">
+    <div class="navbar__inner">
+      <a href="#" class="navbar__logo">
+        <!-- Sun / emblem SVG inline -->
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" aria-label="Playa Mujeres logo">
+          <circle cx="30" cy="30" r="10" fill="#b49a5e"/>
+          <g stroke="#b49a5e" stroke-width="1.8" stroke-linecap="round">
+            <line x1="30" y1="4"  x2="30" y2="14"/>
+            <line x1="30" y1="46" x2="30" y2="56"/>
+            <line x1="4"  y1="30" x2="14" y2="30"/>
+            <line x1="46" y1="30" x2="56" y2="30"/>
+            <line x1="11.7" y1="11.7" x2="18.8" y2="18.8"/>
+            <line x1="41.2" y1="41.2" x2="48.3" y2="48.3"/>
+            <line x1="48.3" y1="11.7" x2="41.2" y2="18.8"/>
+            <line x1="18.8" y1="41.2" x2="11.7" y2="48.3"/>
+          </g>
+        </svg>
+        <span>Playa Mujeres</span>
+      </a>
+
+      <nav class="navbar__links" aria-label="Main navigation">
+        <a href="#">Home</a>
+        <a href="#">Location</a>
+        <a href="#">Golf</a>
+        <a href="#">Where to Stay</a>
+        <a href="#">Experiences</a>
+        <a href="#">Marina</a>
+        <a href="#">Residences</a>
+        <a href="#" class="is-active">Gallery</a>
+        <a href="#">Blog</a>
+      </nav>
+
+      <button class="navbar__hamburger" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ══════════════════════════════ HERO / HEADING ══════════════════════════════ -->
+  <section class="gallery-hero">
+    <p class="gallery-hero__label">— GALLERY —</p>
+    <h1 class="gallery-hero__title">Pictures of Playa Mujeres</h1>
+    <p class="gallery-hero__sub">
+      Take a glimpse at this collection of photos that showcase some of the best spots and captured
+      moments, courtesy of our magnificent resorts.
+    </p>
+  </section>
+
+  <!-- ══════════════════════════════ FILTER PILLS ══════════════════════════════ -->
+  <section class="filter-bar" aria-label="Filter by category">
+    <div class="filter-bar__inner">
+      <div class="filter-pills" id="filterPills" role="group" aria-label="Category filters">
+        <!-- Pills injected by JS -->
+      </div>
+      <button class="btn-reset hidden" id="btnReset" aria-label="Clear category filter">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="13" height="13" fill="currentColor"><path d="M8 .5a7.5 7.5 0 1 0 0 15A7.5 7.5 0 0 0 8 .5zm3.354 9.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 1 1 .708-.708L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8z"/></svg>
+        Clear filter
+      </button>
+    </div>
+  </section>
+
+  <!-- ══════════════════════════════ GALLERY GRID ══════════════════════════════ -->
+  <main class="gallery-section">
+    <div class="gallery-grid" id="galleryGrid" aria-live="polite">
+      <!-- Cards injected by JS -->
+    </div>
+    <p class="gallery-empty hidden" id="emptyMsg">No images found for this category.</p>
+  </main>
+
+  <!-- ══════════════════════════════ LIGHTBOX ══════════════════════════════ -->
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer" tabindex="-1">
+    <button class="lightbox__close" id="lightboxClose" aria-label="Close image viewer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" width="28" height="28">
+        <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+      </svg>
+    </button>
+    <button class="lightbox__nav lightbox__prev" id="lightboxPrev" aria-label="Previous image">&#8592;</button>
+    <div class="lightbox__content">
+      <img src="" alt="" class="lightbox__img" id="lightboxImg" />
+      <div class="lightbox__caption" id="lightboxCaption"></div>
+    </div>
+    <button class="lightbox__nav lightbox__next" id="lightboxNext" aria-label="Next image">&#8594;</button>
+  </div>
+  <div class="lightbox__backdrop" id="lightboxBackdrop"></div>
+
+  <!-- ══════════════════════════════ FOOTER ══════════════════════════════ -->
+  <footer class="site-footer">
+    <p>&copy; 2025 Playa Mujeres. All rights reserved.</p>
+  </footer>
+
+  <script src="Galeria.js"></script>
+</body>
+</html>
