@@ -61,4 +61,4 @@ Cada imagen sigue este esquema:
 ## Enlace del proyecto corriendo en Github page
 https://frederickgabriel.github.io/Galer-a-Filtrable-con-Pills-de-Categor-as/
 
-Algunas imagenes no se cargan creo que estan caidas al momento de seguir el vinculo no se encuentras y sale un erro 404 
+Algunas imagenes no se pudieron cargar tal parece que estan caidas al momento de seguir el vinculo no se encuentran y sale un erro 404 
